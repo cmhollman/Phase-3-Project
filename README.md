@@ -16,8 +16,8 @@ The country of Tanzania is largely dependent on outside sources to maintain an a
 ## Data
 
 The data for this project comes from one dataset which is included in this repository:
-data/training_set_labels.csv
-data/training_set_values.csv
+- data/training_set_labels.csv
+- data/training_set_values.csv
 This data contains information from over 59,000 waterpoints geographical data, pump type, water quality, funding and management information and construction. Many of these columns are redundant. The scale of the issue is apparent when looking at these two vizualizations: A map plotting "failed" waterpoints, and a bar chart depicting what percentage of the total water sources in a given region are categorized as non functional or in need of repair.
 ![Tanz_map](https://github.com/cmhollman/Phase-3-Project/blob/main/Images/Tanz_map.png)
 ![Fail_bar](https://github.com/cmhollman/Phase-3-Project/blob/main/Images/Failure_Bar.png)
