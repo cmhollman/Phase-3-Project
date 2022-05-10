@@ -30,7 +30,7 @@ For this project we will apply three different classifications models in order t
 We were able to build a Random Forest model which, when tuned can predict whether a water source is functional or not with 82% accuracy. Notably, the precision score for our target (accuracy when predicting that a well is non functioning) is 84% and the model is able to identify 75% of the total sources that are in need of repair. The precision and recall scores for functional sources are .80 and .88 respectively, which is also useful. Out model did produce 2058 'false positives' and 1197 'false negatives. The most useful predictors are a source being classified as dry, the GPS altitude of the site, the year it was constructed, the nearby population, and the waterpoint type being classified as 'other'
 
 ![Conf_mat](https://github.com/cmhollman/Phase-3-Project/blob/main/Images/conf_mat.png)
-![Feat_imp](https://github.com/cmhollman/Phase-3-Project/blob/main/Images/feature_importance.png​)
+![Feat_imp](https://github.com/cmhollman/Phase-3-Project/blob/main/Images/feature_importance.png)
 
 
 
