@@ -63,6 +63,6 @@ For additional info, contact Chris Hollman at [chollman91@gmail.com](mailto:chol
 ```
 ├── Data
 ├── images
-├── tanz_notebook.ipynb
 ├── README.md
-└── Tanz_slides.pdf
+├── Tanz_slides.pdf
+└── tanz_notebook.ipynb
