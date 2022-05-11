@@ -53,7 +53,7 @@ Further analyses could provide more value to the Ministry of Water:
 
 See the full analysis in the [Jupyter Notebook](https://github.com/cmhollman/Phase-3-Project/blob/main/tanz_notebook.ipynb) 
 
-or review this [presentation](https://github.com/cmhollman/Phase-3-Project/main/Tanz_slides.pdf).
+or review this [presentation](https://github.com/cmhollman/Phase-3-Project/blob/main/Tanz_slides.pdf).
 
 For additional info, contact Chris Hollman at [chollman91@gmail.com](mailto:chollman91@gmail.com)
 
@@ -63,6 +63,6 @@ For additional info, contact Chris Hollman at [chollman91@gmail.com](mailto:chol
 ```
 ├── Data
 ├── images
+├── tanz_notebook.ipynb
 ├── README.md
-├── Tanz_slides.pdf
-└── tanz_notebook.ipynb
+└── Tanz_slides.pdf
